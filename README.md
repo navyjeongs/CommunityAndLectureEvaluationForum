@@ -37,6 +37,8 @@ MySQL : 8.0.28
 
 
 <h3>6. 참고 사이트</h3>
-유튜버 동빈나님의 
+유튜버 동빈나님의 영상을 참고하여 만들었습니다.
+<br>
 JSP강의 평가 웹사이트 : https://www.youtube.com/watch?v=hke9FKluXow&list=PLRx0vPvlEmdAdWCQeUPnyMZ4PsW3dGuFB
+<br>
 JSP게시판 : https://www.youtube.com/watch?v=wEIBDHfoMBg&list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
