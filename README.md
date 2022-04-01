@@ -3,7 +3,9 @@ JSP를 이용한 자유게시판 및 강의평가 게시판 웹 사이트입니�
 
 <h2>Tomcat 및 MySQL 버전</h2>
 Tomcat : v8.5
+<br>
 MySQL : 8.0.28
+<br>
 /WEBContent/WEB-INF/lib 위치에 자신의 MySQL 버전에 맞는 MySQL Connector 파일을 등록해야합니다.
 
 <h3>1. 데이터 베이스 구조</h3>
@@ -31,3 +33,10 @@ MySQL : 8.0.28
 <h3>5. 강의평가게시판 화면</h3>
 강의평가게시판 화면입니다. 수강했던 강의를 등록할 수 있고 추천 기능이 있습니다.
 <img src="https://user-images.githubusercontent.com/100738049/161284861-026b7e82-f1ab-4941-8d47-ef3c963d56bc.jpg" width ="950" height="550">
+
+
+
+<h3>6. 참고 사이트</h3>
+유튜버 동빈나님의 
+JSP강의 평가 웹사이트 : https://www.youtube.com/watch?v=hke9FKluXow&list=PLRx0vPvlEmdAdWCQeUPnyMZ4PsW3dGuFB
+JSP게시판 : https://www.youtube.com/watch?v=wEIBDHfoMBg&list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
