@@ -1,4 +1,4 @@
-# CommunityAndLectureForum(자유게시판, 강의평가 게시판)
+# CommunityAndLecture(자유게시판, 강의평가 게시판)
 JSP를 이용한 자유게시판 및 강의평가 게시판 웹 사이트입니다.
 
 <h2>Tomcat 및 MySQL 버전</h2>
