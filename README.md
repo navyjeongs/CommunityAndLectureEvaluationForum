@@ -18,8 +18,8 @@ MySQL : 8.0.28
 <h3>2. 로그인 및 회원가입 화면</h3>
 로그인 및 회원가입 화면입니다.
 <div>
-<img src ="https://user-images.githubusercontent.com/100738049/161284870-8e774703-4818-4589-8264-d43db4b24887.jpg" width ="500" height="430">
-<img src ="https://user-images.githubusercontent.com/100738049/161284876-2e4ab442-c133-4cd5-94f8-8f8347e5a79e.jpg" width ="500" height="430">
+<img src ="https://user-images.githubusercontent.com/100738049/161284870-8e774703-4818-4589-8264-d43db4b24887.jpg" width ="490" height="430">
+<img src ="https://user-images.githubusercontent.com/100738049/161284876-2e4ab442-c133-4cd5-94f8-8f8347e5a79e.jpg" width ="490" height="430">
 </div>
 
 <h3>3. Main 화면</h3>
